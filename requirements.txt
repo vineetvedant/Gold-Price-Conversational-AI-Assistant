@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+chromadb
+httpx
+python-dotenv
+onnxruntime

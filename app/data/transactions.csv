@@ -1,0 +1,4 @@
+transaction_id,user_id,purchase_amount_inr,gold_amount_grams,price_per_gram,timestamp,status
+cbb66c6a-227f-4cbb-a6db-84df901f6558,user_123,15000.00,0.1944,77149.00,2025-08-28T11:53:05.807990+00:00,completed
+399dd010-046a-45fe-8de9-afee19168b5a,user_123,15000.00,0.1944,77149.00,2025-08-28T12:06:27.154181+00:00,completed
+6679dd69-0fea-4c4f-b5fa-d78a0079254d,user_123,15000.00,0.1944,77149.00,2025-08-28T12:12:59.044217+00:00,completed

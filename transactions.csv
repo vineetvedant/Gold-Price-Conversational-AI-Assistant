@@ -1,0 +1,2 @@
+transaction_id,user_id,purchase_amount_inr,gold_amount_grams,price_per_gram,timestamp,status
+64004d5e-03ec-48e3-b718-25c30f0ded17,user_123,15000.00,0.5077,29542.00,2025-08-28T10:53:08.515205+00:00,completed
